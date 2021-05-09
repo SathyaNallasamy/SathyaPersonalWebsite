@@ -1,0 +1,4 @@
+AuthUserFile C:/Apache24/htdocs/.htpasswd
+AuthName "Please Enter User & PW"
+AuthType Basic
+require valid-user
